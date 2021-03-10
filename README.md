@@ -1,6 +1,6 @@
 ### Hi i'm Cristian Pascumal, i'm a Computer Science student at Universidad del Valle in Cali, Colombia.
 
-I have knowledge at Postgresql, Javascript, nodeJS and a bit of C++, Python and Java. I'm interested on backend developing and other areas like Algorithms analyisis and desing, Constraint Programming and Neural Networks 
+I have knowledge at Postgresql, Javascript, nodeJS and a bit of C++, Python and Java. I'm interested on backend developing and other areas like Analyisis and Algorithms designing, Functional programming, Constraint Programming and Neural Networks 
 
 <!--
 **Pascu999/Pascu999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
